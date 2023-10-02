@@ -1,1 +1,2 @@
 Welcome to the Notepad world! and developer 1 workspace!
+Text added to test git merge from github
